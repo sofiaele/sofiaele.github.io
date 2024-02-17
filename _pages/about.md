@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='https://labs-repos.iit.demokritos.gr/MagCIL/'>Multimedia Analysis Group</a>, <a href='https://www.iit.demokritos.gr/el/'>IIT - NCSR Demokritos</a>. <a href='https://www.dept.aueb.gr/en/infotech-overview-en'>Department Of Informatics - AUEB</a>. <a href='https://behavioralsignals.com/'>Behavioral Signals Technologies, Inc.</a> <h6><em><strong>"Innovating Intelligence, Crafting Tomorrow Unveiling the Future through AI, one Model at a Time."</strong></em></h6>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

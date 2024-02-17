@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sofiaele
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tyiannak/readys
+  - tyiannak/pyAudioAnalysis 
+  - tyiannak/deep_audio_features 
+  - magcil/public-speakers-quality 
+  - magcil/clients_api
+  - sofiaele/PuSQ
